@@ -1,4 +1,4 @@
-![Travis CI](https://travis-ci.org/davidamaro/2016-2_TSFisicaComputacional.svg?branch=master)
+[![Build Status](https://travis-ci.org/davidamaro/2017-1_TS_Pineda.svg?branch=master)](https://travis-ci.org/davidamaro/2017-1_TS_Pineda)
 # 2017-1 Temas Selectos de Física Computacional II (8306)
 # Información cuántica y sistemas de espín
 
